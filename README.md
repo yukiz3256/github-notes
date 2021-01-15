@@ -7,3 +7,14 @@ Github: ( webservice) where you can have an account and do things with git on a 
 Repo: basically a project, theres many files in it. 
 
 Commit: basically meaning save, saving the project. When you commit again, you can add and say what changes you've made. The commits let you see your history, each commit has a unique identifier to it. 
+
+
+Notes on Github Concept:
+Github holds projects aka repo/repositories. 
+Github remote is where your files live, where you are on the web and your repos are public aka an open source. 
+Local is where your working on your computer, where your ideas are private. 
+Clone: make a copy of entire repo from remote to local
+Commit: snapshots of changes
+Push: send commits from local to remote
+Pull: send commits from remote to local. 
+Overall github is great for collaborat
