@@ -10,11 +10,21 @@ Commit: basically meaning save, saving the project. When you commit again, you c
 
 
 Notes on Github Concept:
-Github holds projects aka repo/repositories. 
+Github holds projects aka repo/repositories.
+ 
 Github remote is where your files live, where you are on the web and your repos are public aka an open source. 
+
 Local is where your working on your computer, where your ideas are private. 
+
 Clone: make a copy of entire repo from remote to local
+
 Commit: snapshots of changes
+
 Push: send commits from local to remote
+
 Pull: send commits from remote to local. 
-Overall github is great for collaborat
+
+Overall github is great for collaboration, more than one person can work on it without getting interrupted while working on the same file. 
+
+
+
